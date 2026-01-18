@@ -9,7 +9,7 @@ A dedicated journey of a non-CS major transitioning into Data Science and Comput
 3. **SQL Developer (SQLD)**
 4. **Data Architecture Semi-Professional (DASP)**
 
-###Target: 4 Data Certifications & US CS Master's
+##Target: 4 Data Certifications & US CS Master's
 - [ ] ADsP 취득 (2월)
 - [ ] SQLD & DASP 취득 (3월)
 - [ ] 빅데이터분석기사 실기 취득 (6월)
